@@ -1,0 +1,14 @@
+body{
+	margin: 0
+}
+.box{
+	height: 100px;
+	
+}
+.yellow{
+	background-color: #FFF47C;
+}
+
+.red{
+	background-color: #E53A3A;
+}
